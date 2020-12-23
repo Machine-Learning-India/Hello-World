@@ -4,5 +4,5 @@ A Quick-start Guide to get to know MLI better.
 
 ![mli-logo-wide](https://raw.githubusercontent.com/AllenAJ/Data-dump/master/Group%201.png)
 
-> ***The power of Open Source is the power of the people. The people rule.***.
-> ~ [*Philippe Kahn*](https://en.wikipedia.org/wiki/Philippe_Kahn)
+> ***As more and more artificial intelligence is entering into the world, more and more emotional intelligence must enter into leadership.***.
+> ~ [*Amit Ray*](https://en.wikipedia.org/wiki/Amit_Ray)
