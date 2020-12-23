@@ -1,4 +1,4 @@
-## 📖 Start Here 
+## 👋 Hello World! 
 
 A Quick-start Guide to get to know MLI better.
 
