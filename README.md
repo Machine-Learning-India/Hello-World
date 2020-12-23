@@ -1,6 +1,6 @@
 ## 👋 Hello World! 
 
-A Quick-start Guide to get to know MLI better.
+A Quick-start Guide for people who want to know MLI better.
 
 ![mli-logo-wide](https://raw.githubusercontent.com/AllenAJ/Data-dump/master/Group%201.png)
 
